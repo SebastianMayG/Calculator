@@ -19,3 +19,4 @@ Java: The programming language used for developing the app logic and functionali
 
 XML: Layouts and user interface elements are designed using XML markup language.
 
+![] = (https://github.com/SebastianMayG/Calculator/blob/master/Example.jpeg)
